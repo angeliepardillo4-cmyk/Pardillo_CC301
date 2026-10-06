@@ -193,7 +193,7 @@ class _MyAppState extends State<MyApp> {
     Fruit(name: 'Kiwi'),
     Fruit(name: 'Pineapple'),
     Fruit(name: 'Raspberry'),
-    Fruit(name: 'Bustalino'),
+    Fruit(name: 'Pardillo, A.'),
   ];
 
   void removeFruit(Fruit fruit) {
